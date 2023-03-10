@@ -38,5 +38,13 @@
         "category": "Lanches",
         "ingredients": "Hamburguer,queijo cheddar,cebola,picles,ketchup,mostarda,pão sem gergelim",
         "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXJhh6f/200/200/original?country=br"
+    },
+    {
+        "id": 6,
+        "name": "Sorvete casquinha",
+        "price": 42.49,
+        "category": "Sobremesas",
+        "ingredients": "chocolate, baunilha",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXnFFzy/200/200/original?country=br"
     }
 ]
