@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Bic Mac",
+        "price": 42.49,
+        "category": "Lanches",
+        "ingredients": "Hamburguer,alface americana,queijo cheddar,maionese Big Mac,cebola,picles,pão com gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kfXxD5Xb/200/200/original?country=br"
+    },
+    {
+        "id": 2,
+        "name": "Quarteirão com queijo",
+        "price": 42.49,
+        "category": "Lanches",
+        "ingredients": "Hamburguer,queijo cheddar,cebola,picles,ketchup,mostarda,pão com gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kfXDlz7u/200/200/original?country=br"
+    },
+    {
+        "id": 3,
+        "name": "Hamburguer",
+        "price": 42.49,
+        "category": "Lanches",
+        "ingredients": "Hamburguer,cebola,picles,ketchup,mostarda,pão sem gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kfXryEgJ/200/200/original?country=br"
+    },
+    {
+        "id": 4,
+        "name": "Cheeseburguer",
+        "price": 42.49,
+        "category": "Lanches",
+        "ingredients": "Hamburguer,queijo cheddar,cebola,picles,ketchup,mostarda,pão sem gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kfXryEgJ/200/200/original?country=br"
+    },
+    {
+        "id": 5,
+        "name": "Cheeseburguer",
+        "price": 42.49,
+        "category": "Lanches",
+        "ingredients": "Hamburguer,queijo cheddar,cebola,picles,ketchup,mostarda,pão sem gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXJhh6f/200/200/original?country=br"
+    }
+]
