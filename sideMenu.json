@@ -1,7 +1,27 @@
 [
     {
         "id": 1,
+        "name": "Lanches",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kuXUpVpe/200/200/original?country=br"
+    },
+    {
+        "id": 2,
+        "name": "Bebidas",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kUXY3lKf/200/200/original?country=br"
+    },
+    {
+        "id": 3,
+        "name": "Acompanhamentos",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$k7Xge5YX/200/200/original?country=br"
+    },
+    {
+        "id": 4,
         "name": "Sobremesas",
         "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kxX1aUjQ/200/200/original?country=br"
+    },
+    {
+        "id": 5,
+        "name": "McCafé",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$khXhMYWt/200/200/original?country=br"
     }
 ]
