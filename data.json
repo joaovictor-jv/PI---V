@@ -33,18 +33,210 @@
     },
     {
         "id": 5,
-        "name": "Cheeseburguer",
+        "name": "Duplo Quarteirão",
         "price": 42.49,
         "category": "Lanches",
-        "ingredients": "Hamburguer,queijo cheddar,cebola,picles,ketchup,mostarda,pão sem gergelim",
-        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXJhh6f/200/200/original?country=br"
+        "ingredients": "Hamburguer,queijo cheddar,cebola,mostarda,ketchup,pão com gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzX1Xu4q/200/200/original?country=br"
     },
     {
         "id": 6,
+        "name": "McNífico Bacon",
+        "price": 42.49,
+        "category": "Lanches",
+        "ingredients": "Hambúrguer,bacon,alface americana,cebola,queijo sabor cheddar,tomate,maionese,ketchup,mostarda,pão com gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXjtUHf/200/200/original?country=br"
+    },
+    {
+        "id": 7,
+        "name": "Duplo Cheddar McMelt",
+        "price": 42.49,
+        "category": "Lanches",
+        "ingredients": "Hamburguer,molho lácteo cremoso sabor cheddar,cebola ao molho shoyu,pão escuro com gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXWKJ6A/200/200/original?country=br"
+    },
+    {
+        "id": 8,
+        "name": "Cheddar McMelt",
+        "price": 42.49,
+        "category": "Lanches",
+        "ingredients": "Hamburguer,molho lácteo cremoso sabor cheddar,cebola ao molho shoyu,pão escuro com gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXv7hw4/200/200/original?country=br"
+    },
+    {
+        "id": 9,
+        "name": "Duplo Burger Bacon",
+        "price": 42.49,
+        "category": "Lanches",
+        "ingredients": " Hamburguer,queijo sabor cheddar,cebola,fatias de bacon,ketchup,mostarda,pão com gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kMX5kx4H/200/200/original?country=br"
+    },
+    {
+        "id": 10,
+        "name": "Duplo Burguer com Queijo",
+        "price": 42.49,
+        "category": "Lanches",
+        "ingredients": "Hamburguer,queijo sabor cheddar derretido,picles,cebola picada,ketchup,mostarda,pão com gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kqXN4V8x/200/200/original?country=br"
+    },
+    {
+        "id": 11,
+        "name": "Triplo Burger",
+        "price": 42.49,
+        "category": "Lanches",
+        "ingredients": "Hamburguer,queijo sabor cheddar,cebola,picles,ketchup,mostarda,pão com gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzX5tCNw/200/200/original?country=br"
+    },
+    {
+        "id": 12,
+        "name": "McFiesta",
+        "price": 42.49,
+        "category": "Lanches",
+        "ingredients": "Hamburguer,alface,tomate,maionese,pão sem gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kJXksdfE/200/200/original?country=br"
+    },
+    {
+        "id": 13,
+        "name": "McChicken",
+        "price": 42.49,
+        "category": "Lanches",
+        "ingredients": "Frango empanado,maionese,alface americana,pão com gergelim",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kKXGzDAK/200/200/original?country=br"
+    },
+    {
+        "id": 14,
+        "name": "McFritas Média",
+        "price": 42.49,
+        "category": "Acompanhamentos",
+        "ingredients": "batata",
+        "image": "https://www.mcdonalds.com.br/cardapio/acompanhamentos/mc-fritas-media"
+    },
+    {
+        "id": 15,
+        "name": "McFritas Pequena",
+        "price": 42.49,
+        "category": "Acompanhamentos",
+        "ingredients": "batata",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kUXgPmuC/200/200/original?country=br"
+    },
+    {
+        "id": 16,
+        "name": "Chicken McNuggets 4 unidades",
+        "price": 42.49,
+        "category": "Acompanhamentos",
+        "ingredients": "McNuggets de peito de frango",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kLXuenE7/200/200/original?country=br"
+    },
+    {
+        "id": 17,
+        "name": "Molho Barbecue",
+        "price": 42.49,
+        "category": "Acompanhamentos",
+        "ingredients": "Molho",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kLXPR6RZ/200/200/original?country=br"
+    },
+    {
+        "id": 18,
+        "name": "Coca-Cola 500ml",
+        "price": 42.49,
+        "category": "Bebidas",
+        "ingredients": "Cocal-Cola",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kqX3KRXS/200/200/original?country=br"
+    },
+    {
+        "id": 19,
+        "name": "Água Mineral",
+        "price": 42.49,
+        "category": "Bebidas",
+        "ingredients": "Água sem gás",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$k7X5DQ6J/200/200/original?country=br"
+    },
+    {
+        "id": 20,
+        "name": "Capuccino 200ml",
+        "price": 42.49,
+        "category": "Bebidas",
+        "ingredients": "Leite semidesnatado,café do Méqui,chocolate em pó",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kLX4bCWP/200/200/original?country=br"
+    },
+    {
+        "id": 21,
+        "name": "Pão de Queijo",
+        "price": 42.49,
+        "category": "McCafé",
+        "ingredients": "Pão de queijo",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kKXpaAJP/200/200/original?country=br"
+    },
+    {
+        "id": 22,
+        "name": "Queijo Quente",
+        "price": 42.49,
+        "category": "McCafé",
+        "ingredients": "Pão sem gergelim,queijo sabor cheddar",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kKXgZWAc/200/200/original?country=br"
+    },
+    {
+        "id": 23,
+        "name": "Cookie de Baunilha com Gotas de Chocolate",
+        "price": 42.49,
+        "category": "McCafé",
+        "ingredients": "Massa de baunilha,gotas de chocolate",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$knXq3lpb/200/200/original?country=br"
+    },
+    {
+        "id": 24,
+        "name": "Bolo de laranja",
+        "price": 42.49,
+        "category": "McCafé",
+        "ingredients": "Bolo de laranja",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$knX045hU/200/200/original?country=br"
+    },
+    {
+        "id": 25,
         "name": "Sorvete casquinha",
         "price": 42.49,
         "category": "Sobremesas",
         "ingredients": "chocolate, baunilha",
         "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXnFFzy/200/200/original?country=br"
+    },
+    {
+        "id": 26,
+        "name": "Torta de Maçã",
+        "price": 42.49,
+        "category": "Sobremesas",
+        "ingredients": "Massa,maçã",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$krXTZ9Ue/200/200/original?country=br"
+    },
+    {
+        "id": 27,
+        "name": "McShake Ovomaltine",
+        "price": 42.49,
+        "category": "Sobremesas",
+        "ingredients": "Leite batido, ovomaltine",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kJX0TX33/200/200/original?country=br"
+    },
+    {
+        "id": 28,
+        "name": "McFlurry Ovomaltine®",
+        "price": 42.49,
+        "category": "Sobremesas",
+        "ingredients": "Bebida láctea sabor baunilha,flocos de ovomaltine,cobertura sabor chocolate",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kRX3z5qu/200/200/original?country=br"
+    },
+    {
+        "id": 29,
+        "name": "McFlurry Prestígio Chocolate",
+        "price": 42.49,
+        "category": "Sobremesas",
+        "ingredients": "Bebida láctea sabor baunilha,cobertura sabor chocolate,bombom recheado com coco coberto com chocolate ao leite Prestígio®",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kHXF9mMP/200/200/original?country=br"
+    },
+    {
+        "id": 30,
+        "name": "Sundae Morango",
+        "price": 42.49,
+        "category": "Sobremesas",
+        "ingredients": "Bebida láctea sabor baunilha,cobertura de morango",
+        "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXNtbWx/200/200/original?country=br"
     }
 ]
